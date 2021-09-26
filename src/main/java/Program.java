@@ -5,6 +5,5 @@ public class Program {
         Numbers numbers = new Numbers();
         int r=numbers.sum(5);
         System.out.println(r);
-        --Hello !!!
     }
 }
